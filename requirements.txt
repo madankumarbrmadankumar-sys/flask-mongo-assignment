@@ -1,0 +1,7 @@
+[
+  {"id": 1, "name": "Alice",   "role": "DevOps Engineer",  "tool": "Jenkins"},
+  {"id": 2, "name": "Bob",     "role": "Cloud Architect",  "tool": "Terraform"},
+  {"id": 3, "name": "Charlie", "role": "SRE",              "tool": "Prometheus"},
+  {"id": 4, "name": "Diana",   "role": "DevOps Engineer",  "tool": "Docker"},
+  {"id": 5, "name": "Eve",     "role": "Security Engineer","tool": "Vault"}
+]
